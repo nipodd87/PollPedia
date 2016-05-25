@@ -1,0 +1,29 @@
+<resources>
+    <string name="navigation_item_1">Home</string>
+    <string name="app_name">PollPedia</string>
+    <string name="navigation_item_2">Events</string>
+    <string name="starred_string">Starred</string>
+    <string name="inbox_string">Inbox</string>
+    <string name="sent_mail_string">Sent mail</string>
+    <string name="draft_string">Drafts</string>
+    <string name="subheader">Subheader</string>
+    <string name="trash_string">Trash</string>
+    <string name="all_mail_string">All mails</string>
+    <string name="spam_string">Spams</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+    </string-array>
+    <string name="parse_app_id">xwOZFK2l8D9UuaIX5ZOZm2GxRhs063zREdC8Sk0N</string>
+    <string name="parse_client_key">tUOG5m280PVGod5r0188wcEEjeyPGz5Tur7Dr6yj</string>
+</resources>
